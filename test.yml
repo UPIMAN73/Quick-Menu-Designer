@@ -1,0 +1,5 @@
+Menu-Items:
+  - header: SSH Into Client
+    command: ssh root@127.0.0.1
+  - header: Get Current Directory
+    command: echo $PWD
